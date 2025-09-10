@@ -1,0 +1,147 @@
+Pedro Santos
+19
+7359
+1
+Rua do Sol
+789
+Belo Horizonte
+Ana Costa
+21
+1942
+1
+Travessa das Laranjeiras
+101
+Curitiba
+Lucas Pereira
+23
+6507
+1
+Rua dos Pinheiros
+202
+Porto Alegre
+Mariana Silva
+22
+8394
+1
+Avenida Brasil
+300
+Desterro
+Ricardo Almeida
+20
+5123
+1
+Rua das Palmeiras
+87
+Curitiba
+Beatriz Rocha
+24
+1048
+1
+Rua São João
+55
+Belo Horizonte
+Felipe Carvalho
+25
+9132
+1
+Rua XV de Novembro
+120
+Curitiba
+Carla Mendes
+21
+6274
+1
+Rua Dom Pedro
+47
+Porto Alegre
+Gabriel Souza
+27
+3581
+1
+Rua das Acácias
+210
+Belo Horizonte
+Fernanda Lima
+22
+7704
+1
+Rua Augusta
+405
+Sao Paulo
+Andre Oliveira
+20
+2983
+1
+Rua Marechal Deodoro
+88
+Sao Paulo
+Juliana Ferreira
+23
+8410
+1
+Avenida Atlântica
+60
+Rio de Janeiro
+Thiago Barbosa
+21
+4597
+1
+Rua das Flores
+34
+Rio de Janeiro
+Vanessa Martins
+25
+9245
+1
+Rua Santa Catarina
+72
+Curitiba
+Rafael Gomes
+22
+3356
+1
+Rua das Laranjeiras
+15
+Belo Horizonte
+Patricia Nunes
+24
+5109
+1
+Rua das Hortênsias
+300
+Porto Alegre
+Daniel Costa
+26
+7831
+1
+Rua Visconde de Ouro Preto
+90
+Sao Paulo
+Camila Ribeiro
+23
+2694
+1
+Rua José Bonifácio
+55
+Curitiba
+Bruno Teixeira
+21
+6940
+1
+Rua Padre Anchieta
+400
+Desterro
+Pedro Santos
+20
+8821
+1
+Rua do Comércio
+210
+Curitiba
+Ana Costa
+22
+4457
+1
+Rua Central
+99
+Belo Horizonte
