@@ -13,6 +13,7 @@ typedef struct local{
     int numero_da_casa;
     char cidade[tamanho_da_string];
 } local;
+
 typedef struct aluno{
     char nome[tamanho_da_string];
     int idade;
@@ -274,16 +275,19 @@ a função de leitura*/
 void remove_aluno_por_matricula(aluno *escola, int matricula)
 {
     if(verifica_quantidade_de_alunos(escola) != 0){
-        int posicao;
+        int posicao, contador = 0;
         for(int i=0; i<quantidade_de_alunos; i++){
             if(escola[i].matricula == matricula){
+                contador++;
                 posicao = i;
                 for(int i=posicao; i<quantidade_de_alunos-1; i++){
                     escola[posicao] = escola[i+1];
                 }
+                printf("O aluno foi removido com sucesso");
                 break;
             }
         }
+        if(contador == 0) printf("Não existe aluno com essa matrícula");
         /*Para zerar o último elemento a atribuição deve ser feita dessa forma
         pois dessa forma é possível atribuir diretamente um struct a outro struct, 
         mesmo que ele tenha strings*/
